@@ -1,8 +1,15 @@
+"""" 
+	App de prueba para trabajo con CRUD, BBDD, y la librería tkinter
+
+"""
+
 from tkinter import *
 from tkinter import messagebox
 import sqlite3
 
 #------------------Funciones------------------------
+
+
 
 def conexionBBDD():
 
